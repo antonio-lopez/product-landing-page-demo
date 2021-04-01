@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Catamaran&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/simple-lightbox.min.css" />
+    <title>Headphones Demo</title>
+  </head>
+  <body id="home">
+    <nav class="navbar">
+      <div class="container">
+        <h1 class="logo">Phono</h1>
+        <ul class="nav">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- showcase -->
+    <section class="section-a">
+      <div class="container">
+        <div>
+          <h1>The headphones of the future</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Perferendis, cumque. Alias labore voluptatum adipisci dolore
+            necessitatibus quam, temporibus laboriosam magni.
+          </p>
+          <a href="#" class="btn">Read More</a>
+        </div>
+        <img src="img/sony-xm3-showcase.jpg" alt="" />
+      </div>
+    </section>
+
+    <!-- overlay text -->
+    <section class="section-b">
+      <div class="overlay">
+        <div class="section-b-inner">
+          <h3>Loud & Clear</h3>
+          <h2>People Aren't Hearing All The Music</h2>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit unde
+            numquam at repellendus labore, officiis tempora est nesciunt dolorum
+            ad.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- gallery -->
+    <section class="section-c">
+      <div class="gallery">
+        <a href="./img/sony-gallery-1.jpg" class="big"
+          ><img src="./img/sony-gallery-1.jpg" alt=""
+        /></a>
+        <a href="./img/sony-gallery-2.jpg" class="big"
+          ><img src="./img/sony-gallery-2.jpg" alt=""
+        /></a>
+        <a href="./img/sony-gallery-7.jpg" class="big"
+          ><img src="./img/sony-gallery-7.jpg" alt=""
+        /></a>
+        <a href="./img/sony-gallery-4.jpg" class="big"
+          ><img src="./img/sony-gallery-4.jpg" alt="" /></a
+        ><a href="./img/sony-gallery-5.jpg" class="big"
+          ><img src="./img/sony-gallery-5.jpg" alt="" /></a
+        ><a href="./img/sony-gallery-6.jpg" class="big"
+          ><img src="./img/sony-gallery-6.jpg" alt=""
+        /></a>
+      </div>
+    </section>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script src="js/simple-lightbox.min.js"></script>
+  <script>
+    const lightbox = new SimpleLightbox('.gallery a');
+  </script>
+</html>
