@@ -6,7 +6,7 @@
 
 ### 🏠 [Homepage](https://headphones-landing-demo.netlify.app/)
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/antonio-lopez/product-landing-page-demo/main/img/headphones-demo-screenshot.png?token=AIWOL5YSCHB57YOP4J3VRMTA5YT6M)
 
 ## Author
 
