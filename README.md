@@ -6,11 +6,11 @@
 
 ### 🏠 [Homepage](https://headphones-landing-demo.netlify.app/)
 
-![screenshot](https://raw.githubusercontent.com/antonio-lopez/product-landing-page-demo/main/img/headphones-demo-screenshot.png?token=AIWOL5YSCHB57YOP4J3VRMTA5YT6M)
+![](https://raw.githubusercontent.com/antonio-lopez/product-landing-page-demo/main/uploads/headphones-demo-screenshot.png?token=AIWOL557ECHN5SDME65224LA7R5GC)
 
 ## Author
 
 👤 **Antonio Lopez**
 
-- Website: https://goofy-mclean-acdc90.netlify.app/
+- Website: [Antonio Lopez](https://www.antoniolopez.me/)
 - Github: [@antonio-lopez](https://github.com/antonio-lopez)
